@@ -5,5 +5,7 @@ public class GitCool {
 
 
         //We have added our GitHub account under intelliJ
+        //we were able to successfully shared project under our github account
+
     }
 }
